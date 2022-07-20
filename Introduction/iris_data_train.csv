@@ -18,9 +18,9 @@ Row,sepal_length,sepal_width,petal_length,petal_width,class
 123,6.3,2.7,4.9,1.8,Iris-virginica
 130,7.4,2.8,6.1,1.9,Iris-virginica
 21,5.1,3.7,1.5,0.4,Iris-setosa
-12,4.8,3.0,1.4,1.2054054054054062,Iris-setosa
+12,4.8,3.0,1.4,1.2054054054054055,Iris-setosa
 71,6.1,2.8,4.0,1.3,Iris-versicolor
-128,6.4,2.8,3.748630136986304,2.1,Iris-virginica
+128,6.4,2.8,3.748630136986301,2.1,Iris-virginica
 48,5.3,3.7,1.5,0.2,Iris-setosa
 72,6.3,2.5,4.9,1.5,Iris-versicolor
 88,5.6,3.0,4.1,1.3,Iris-versicolor
@@ -51,7 +51,7 @@ Row,sepal_length,sepal_width,petal_length,petal_width,class
 20,5.4,3.4,1.7,0.2,Iris-setosa
 146,6.3,2.5,5.0,1.9,Iris-virginica
 35,5.0,3.2,1.2,0.2,Iris-setosa
-6,4.6,3.056462585034015,1.4,0.3,Iris-setosa
+6,4.6,3.0564625850340135,1.4,0.3,Iris-setosa
 15,5.7,4.4,1.5,0.4,Iris-setosa
 28,5.2,3.4,1.4,0.2,Iris-setosa
 97,6.2,2.9,4.3,1.3,Iris-versicolor
@@ -67,11 +67,11 @@ Row,sepal_length,sepal_width,petal_length,petal_width,class
 75,6.6,3.0,4.4,1.4,Iris-versicolor
 37,4.9,3.1,1.5,0.1,Iris-setosa
 77,6.7,3.0,5.0,1.7,Iris-versicolor
-145,5.836486486486487,3.0,5.2,2.3,Iris-virginica
-64,5.6,2.9,3.6,1.2054054054054062,Iris-versicolor
+145,5.8364864864864865,3.0,5.2,2.3,Iris-virginica
+64,5.6,2.9,3.6,1.2054054054054055,Iris-versicolor
 136,6.3,3.4,5.6,2.4,Iris-virginica
 94,5.6,2.7,4.2,1.3,Iris-versicolor
-127,6.1,3.056462585034015,4.9,1.8,Iris-virginica
+127,6.1,3.0564625850340135,4.9,1.8,Iris-virginica
 87,6.3,2.3,4.4,1.3,Iris-versicolor
 92,5.8,2.6,4.0,1.2,Iris-versicolor
 95,5.7,3.0,4.2,1.2,Iris-versicolor
